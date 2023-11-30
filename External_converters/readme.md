@@ -12,7 +12,7 @@ external_converters:
 *English*
 
 To enable the external converter you need to: 
-1. copy the .js file in the same folder tahn the configuration.yaml file of z2m
+1. copy the .js file in the same folder than the configuration.yaml file of z2m
 2. add the following lines int the configuration.yaml file of Z2M
 ~~~~
 external_converters:
